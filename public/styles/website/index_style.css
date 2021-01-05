@@ -1,0 +1,104 @@
+.header-transparrent 
+{
+    position: relative;
+}
+
+
+.et_pb_text_6 {
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 1.3em;
+    padding-top: 61px!important;
+}
+
+.app-img {
+    width: 100%;;
+}
+.best-features-area .single-features .features-icon span
+{
+    background-image: -webkit-linear-gradient(90deg, #4A2DAF 0%, #0A1858 100%);
+
+}
+.sticky-bar
+{
+    background: #0A1858;
+}
+.btn {
+    background: #0A1858;
+    }
+.slider-area .hero__caption .slider-btns a.video-btn {
+    background: #0A1858;
+}
+
+.available-app-area {
+    background-image: -webkit-linear-gradient(90deg, #4A2DAF 0%, #0A1858 100%);
+
+    }
+.header-sticky.sticky-bar.sticky .main-menu ul>li>a {
+    color: #fff;
+}
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before
+{
+    content: unset;
+}
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: unset;
+}
+.btn:hover::before {
+    background: #0A1858;
+}
+.btn::before {
+    background: #0A1858;
+    }
+    #scrollUp {
+    background: #0A1858;
+}
+
+.main-header .main-menu ul li>a::before
+{
+   
+    background: #FF424D;
+}
+.nav>li
+{
+    padding:10px;
+}
+.logo
+{
+    width: 90%;
+}
+.custom-icon
+{
+    top: 25%;
+    left: 25%;
+    position: absolute;
+}
+.owl-carousel .owl-item img 
+{
+    display: inline-block;
+    max-width: 13%;
+}
+.availableApp
+{
+    width: 90%;
+}
+body {
+    padding-bottom: 0rem;
+    }
+.owl-carousel .owl-item img {
+    display: inline-block;
+    max-width: 19%;
+}
+.width90
+{
+    width: 90%;
+}
+.hero-section .iphone-wrap .phone-2, .hero-section .iphone-wrap .phone-1 {
+    top: -40%;
+}
+.site-section-top {
+    padding: 7rem 0 0 0;
+}
+.custom-text-font {
+        font-family: "Poppins", sans-serif;
+}
